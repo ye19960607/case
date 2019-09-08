@@ -19,7 +19,6 @@ html,body{
   border-radius: 50%;
   filter: drop-shadow(0 0 6px #c7ecee);
   animation: scaling 3s ease-in-out infinite,moveto 3s ease-in-out infinite;
-  
 }
 
 .star:nth-child(1){
